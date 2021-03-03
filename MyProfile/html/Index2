@@ -1,0 +1,84 @@
+<!--<nav>
+                <div></div>
+                <div><p>R.M.R.L.K.RATHNAYAKE</p></div>
+                <div><p>Home</p></div>
+                <div><p>Skills</p></div>
+                <div><p>Works</p></div>
+                <div><p>About</p></div>
+                <div><p>Contact</p></div>
+                <div></div>
+            </nav>
+        <article>
+            <p>I AM RAVINDU LAKSHAN</p>
+            <P>Developer and designer</P>
+        </article>
+        <aside></aside>-->
+
+
+        <!--<section>
+                    <aside>
+                        <div>Follow me on</div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </aside>
+                    <article>
+                        <h1>About me</h1>
+                        <p>Name     :- R.M.Ravindu Lakshan</p>
+                        <p>Birthday :- 07/06/1999</p>
+                        <p>Age      :- 21</p>
+                        <p>Tel      :- +94781816652</p>
+                        <p>Address  :- 223\1, Badulla Road, hali-ela</p>
+                        <p>Email    :- ravindulakshan877@gmail.com</p>
+                    </article>
+                    <nav></nav>
+                </section>
+
+                <section>
+                    <article>
+                        <h1>Skills</h1>
+                    </article>
+                    <article>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </article>
+                    <aside></aside>
+                </section>
+
+                <section>
+                    <aside></aside>
+                    <article></article>
+                </section>
+
+                <section>
+                </section>
+                <section></section>
+
+                <section></section>
+
+                <section></section>
+
+                <section>
+                    <aside></aside>
+                    <aside></aside>
+                    <article></article>
+                </section>-->
+
+
+
+                width: 100vw;
+                    height: 100vh;
+                    display: grid;
+                    grid-template-columns: repeat(10, 1fr);
+                    grid-template-rows: repeat(16, 1fr );
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    bottom: 0;
+                    right: 0;
+                    margin: auto;
